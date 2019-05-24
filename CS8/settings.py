@@ -39,7 +39,6 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'rest_framework',
     'rest_framework.authtoken',
-
     'Login',
 ]
 
@@ -99,7 +98,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
         'NAME': 'cs8db',
         'USER': 'postgres',
-        'PASSWORD': '14072017',
+        'PASSWORD': 'admin',
         'HOST':'localhost',
         'PORT':'5432'
     }
