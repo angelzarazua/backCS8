@@ -1,1 +1,1 @@
-web: gunicorn cs8.wsgi --log-file -
+web: gunicorn CS8.wsgi --log-file -
