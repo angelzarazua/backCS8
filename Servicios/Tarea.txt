@@ -1,0 +1,5 @@
+#Generar un ejemplo de la relación manytomanyField
+#Extensión de tabla profile. Generar un ejemplo de la relación OneToMany, ForeignKey
+#Direccion, teléfono, genero, ciudad, descripción (Mínima 300). Ciudad y género en selección.
+Dentro de cada modelo 5 campos, cada modelo el campo de create(Fecha)
+
